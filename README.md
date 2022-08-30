@@ -24,3 +24,11 @@
 <h2>
 ✔️E o pyinstaller vai gerar seu arquivo.exe
 </h2> 
+
+<h2>
+✔️Lembre que quando quiser que seu Programa abra sem a pronpt de comando junto do programa use: ⬇
+</h2> 
+<h2 >
+✔️Abra uma janela de prompt de comando </h2>
+ <h2>
+<h2>Use o comando ➡️ pyinstaller --onefile --noconsole nome_do_seu_programa.py</h2> 
