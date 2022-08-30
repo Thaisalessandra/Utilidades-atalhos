@@ -26,7 +26,7 @@
 </h2> 
 
 <h2>
-✔️Lembre que quando quiser que seu Programa abra sem a prompt de comando junto do programa use: 
+✔️Lembre-se que quando quiser que seu Programa execute sem a prompt de comando junto do programa faça os comandos dessa forma: 
 </h2> 
 <h2 >
 ✔️Abra uma janela de prompt de comando 
